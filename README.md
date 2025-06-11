@@ -21,7 +21,7 @@ To check Go version:
 `go version`
 ## 🏃‍♂️ Run Locally
 1. Clone the repository
-   `git clone https://github.com/your-username/booking-app.git` and go in booking-app directory `cd booking-app`
+   `https://github.com/drasti0810/booking-app.git` and go in booking-app directory `cd booking-app`
 2. Run the app
     `go run main.go`
 
